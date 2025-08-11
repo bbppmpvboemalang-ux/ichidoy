@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="};z:m7.QnGV7/HzQD~-}" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="VO.,{E.E10EmhwVVbU=$"><field name="i">IconNames.Ghost</field><next><block type="device_pause" id="en}b;Pl7L=P%5MJ6(hx9"><value name="pause"><shadow type="timePicker" id="+ab=(j}Af*%:5}-/D=Sq"><field name="ms">2000</field></shadow></value><next><block type="device_print_message" id="XEMQ$KS2C|RF{9gIXckV"><value name="text"><shadow type="text" id="4dfV;%at/M9+xLSoE]C_"><field name="TEXT">cinta</field></shadow></value><next><block type="controls_repeat_ext" id="7SGf*?iKEDXd3s`@liUE"><value name="TIMES"><shadow type="math_whole_number" id="+1z1mb}1R!6A1+[8g{0j"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_clear_display" id="~9z=jEXub4fP4yJtmL_2"></block></statement></block></next></block></next></block></next></block></statement></block><block type="device_build_big_image" id="Yo*3O4*oCU]v1VmnkzW0" disabled-reasons="pxt_automatic_disabled" x="242" y="285"><field name="LEDS">`
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . . 
+        . . . . . . . . . .
+        `</field></block><block type="device_forever" id="`T:*10J4z#BTTl}|7:))" x="-35" y="414"></block></xml>
